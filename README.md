@@ -2,7 +2,7 @@
 
 # I'm a Data Scientist
 
-- I'm currently learning at Yandex Precticum
+- I'm currently learning at Yandex Practicum
 - I'm available for hire now
 
 ## Connect with me:
