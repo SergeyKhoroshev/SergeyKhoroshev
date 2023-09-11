@@ -2,8 +2,8 @@
 
 # I'm a Data Scientist
 
-- I'm currently learning at Yandex Practicum
-- I'm available for hire now
+- I graduated from [Yandex Practicum](https://practicum.yandex.ru/)
+- I'm working at [Magnit](https://magnit.ru/) as Data Analyst now
 
 ## Connect with me:
 
@@ -13,4 +13,4 @@
 
 ## Stack:
 
-python, pandas, scipy, numpy, scikit-learn, catboost, SQL, jupyter (google colab)
+python, pandas, scipy, numpy, scikit-learn, catboost, SQL(postgre, teradata), jupyter (google colab)
