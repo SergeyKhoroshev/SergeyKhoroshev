@@ -1,4 +1,4 @@
-## Hi there, I'm Sergey Khoroshev
+## Hi there, I'm Sergei Khoroshev
 
 # I'm a Data analyst
 
