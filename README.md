@@ -1,9 +1,9 @@
 ## Hi there, I'm Sergey Khoroshev
 
-# I'm a Data Scientist
+# I'm a Data analyst
 
 - I graduated from [Yandex Practicum](https://practicum.yandex.ru/)
-- I'm working at [Magnit](https://magnit.ru/) as Data Analyst now
+- I'm available for hiring now. 
 
 ## Connect with me:
 
